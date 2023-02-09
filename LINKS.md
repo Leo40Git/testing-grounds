@@ -1,2 +1,2 @@
 # Links
-- https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes
+- https://learn.microsoft.com/en-us/previous-versions/aspnet/a0z2h4sw(v=vs.100)
